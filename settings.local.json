@@ -4,7 +4,8 @@
       "Read(//home/wink/data/prgs/rust/tprobe/notes/**)",
       "Read(//home/wink/data/prgs/rust/tprobe/notes/chores/**)",
       "Read(//home/wink/data/prgs/rust/vc-x1/**)",
-      "Read(//home/wink/data/prgs/rust/iiac-perf/**)"
+      "Read(//home/wink/data/prgs/rust/iiac-perf/**)",
+      "Bash(echo \"fmt_exit=$?\")"
     ]
   }
 }
